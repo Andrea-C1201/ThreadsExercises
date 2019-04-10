@@ -20,7 +20,8 @@ package io.andrea_c.evenoddcounter;
  * This is the {@link Thread} that will produce incrementally-generated numbers
  * from 0 to a specific value and says if the generated value is even or odd.
  * 
- * @see Thread
+ * @see Thread 
+ * @see Runnable
  * 
  * @author Andrea-C1201 <giandreas@outlook.it>
  */
